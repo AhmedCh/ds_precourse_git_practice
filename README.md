@@ -1,1 +1,1 @@
-# ds_precourse_git_practice
+Ahmed Chaudhary: I am excited to get started on a path towards becoming a machine learning engineer and to get back into the "school" lifestyle :)
